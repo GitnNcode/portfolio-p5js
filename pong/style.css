@@ -1,0 +1,13 @@
+html, body {
+    margin: 10;
+    padding: 0;
+    background-color: #ffe0b2;
+  }
+  canvas {
+    /* display: block; */
+    left:50% !important;
+    top:50% !important;
+    transform: translate(-50%,-50%);
+    position: absolute;
+  }
+  
